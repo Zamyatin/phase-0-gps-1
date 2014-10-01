@@ -4,5 +4,3 @@
 	puts "Jump up"
 end
 </code></pre>
-
-**Hello**
