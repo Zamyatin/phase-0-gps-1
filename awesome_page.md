@@ -6,3 +6,4 @@ end
 </code></pre>
 
 **Hello**
+This is a SMALL CONFLICT! NOT A BIG ONE!
